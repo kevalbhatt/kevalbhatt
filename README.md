@@ -1,6 +1,16 @@
 ## Hi there 👋, my name is Keval Bhatt
 
-#### Senior Member Technical Staff at [Oracle Cloud](https://www.oracle.com/in/cloud/)
+<p align="center">
+  <img width="60%" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif" align="center" alt="I love coding" />
+  <h2 align="center">
+    Senior Member Technical Staff at <a href="https://www.oracle.com/in/cloud">Oracle Cloud</a>
+    and Committer / PMC member of <a href="https://github.com/apache/atlas">Apache Atlas</a>
+  </h2>
+  <p align="center">Versatile Front End Developer, Specialized in JavaScript</p>
+</p>
+
+
+-----------------------
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -22,11 +32,16 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-007ACC?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-43853d?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="BackboneJS" src="https://img.shields.io/badge/-BackBoneJS-43853d?style=flat-square&logo=jquery&logoColor=white" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevalbhatt&show_icons=true&count_private=true&theme=radical)  
+-----------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevalbhatt&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+<p float="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevalbhatt&show_icons=true&count_private=true&theme=radical" width="48%"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kevalbhatt&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/kevalbhatt)  
