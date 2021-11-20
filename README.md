@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Keval Bhatt
 
 <p align="center">
-  <img width="60%" src="https://cdn.dribbble.com/users/14374/screenshots/3153764/media/08149640c0762f4fe83af0e15378d5bc.gif" align="center" alt="I love coding" />
+  <img width="60%" src="https://github.com/kevalbhatt/kevalbhatt/blob/main/code.gif" align="center" alt="I love coding" />
   <h2 align="center">
     Senior Member Technical Staff at <a href="https://www.oracle.com/in/cloud">Oracle Cloud</a>
     and Committer / PMC member of <a href="https://github.com/apache/atlas">Apache Atlas</a>
@@ -9,6 +9,10 @@
   <p align="center">Versatile Front End Developer, Specialized in JavaScript</p>
 </p>
 
+<p align='center'>
+<a href="https://stackoverflow.com/users/4696809/keval-bhatt"><img height="30" src="https://github.com/kevalbhatt/kevalbhatt/blob/main/stackoverflow.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/keval-bhatt-9171976b/"><img height="30" src="https://github.com/kevalbhatt/kevalbhatt/blob/main/linkedin.png?raw=true"></a>
+</p>
 
 -----------------------
 
