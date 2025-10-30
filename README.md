@@ -3,8 +3,8 @@
 <p align="center">
   <img width="60%" src="https://github.com/kevalbhatt/kevalbhatt/blob/main/code.gif" align="center" alt="I love coding" />
   <h2 align="center">
-    Senior Member Technical Staff at <a href="https://www.oracle.com/in/cloud">Oracle Cloud</a>
-    and Committer / PMC member of <a href="https://github.com/apache/atlas">Apache Atlas</a>
+    Building <strong>AIDP</strong> at <a href="https://www.oracle.com/in/cloud">Oracle</a> ☁️ • 
+    Committer / PMC Member at <a href="https://github.com/apache/atlas">Apache Atlas</a>
   </h2>
   <p align="center">Versatile Front End Developer, Specialized in JavaScript</p>
 </p>
