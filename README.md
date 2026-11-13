@@ -42,10 +42,3 @@
 </p>
 
 -----------------------
-
-<p float="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevalbhatt&show_icons=true&count_private=true&theme=radical" width="48%"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kevalbhatt&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
-</p>
-
-![Profile views](https://gpvc.arturio.dev/kevalbhatt)  
